@@ -6,6 +6,7 @@ The system demonstrates a real working bank website with several options-
 3. Opening savings account
 4. Taking a loan
 5. Booking an appointment with a banker
+
 This project leverages Object-Oriented Programming (OOP) principles along with the powerful data manipulation capabilities of pandas, a Python Data Analysis Library, to efficiently manage and process data, including data stored in Excel and text files.
 
 ![image](https://github.com/yaelkeidar/Bank-YK/assets/154610976/28cb8e7c-6cde-4269-9d19-9b77cfaf7a97)
