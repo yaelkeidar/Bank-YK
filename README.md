@@ -1,6 +1,6 @@
 # Bank-YK
 In the project, I created a bank system in Python.
-The system demonstrates w real working bank website with several options-
+The system demonstrates a real working bank website with several options-
 1. Creating an account
 2. Transfer money
 3. Opening savings account
